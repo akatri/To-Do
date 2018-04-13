@@ -13,7 +13,7 @@ To Do will take care it.
 ![img](https://user-images.githubusercontent.com/19759815/38722151-982731a8-3f1a-11e8-8c86-4e865d8b04df.png)
 
 ## Installing
-Download the jar executable from the build directory( path : Address/build/deploy/AddressApp.jar ) and run it on your computer.
+Download the code and run it using Eclipse.
 
 ## Developing
 ### Built with
@@ -21,6 +21,10 @@ Download the jar executable from the build directory( path : Address/build/deplo
  ### Prerequisites
     Java version 1.8 or above.
 Install latest java version from [here](https://www.java.com/en/download/manual.jsp).
+
+     Apache Tomcat 7.
+     Maven.
+     BootStrap 3
 
 ## Licence
 
