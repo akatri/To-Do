@@ -1,8 +1,8 @@
 # To-Do
 Easiest way to get your tasks done.
 
-Are you tired of forgetting daily tasks? Do you want to remember important resolutions? 
-To Do will take care it.
+Are you tired of forgetting daily tasks? Do you want to remember your important resolutions? 
+To Do will take care of it.
 
 
 # ScreenShot
