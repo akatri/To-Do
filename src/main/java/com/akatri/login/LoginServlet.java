@@ -22,7 +22,11 @@ import com.akatri.todo.ToDoListService;
 
 //Java Platform, Enterprise Edition (Java EE) JEE6
 
-//Servlet is a Java programming language class 
+//Servlet is a Java programming language class servers 
+//that host applications accessed by means of servers 
+//that host applications accessed by means of 
+
+
 //used to extend the capabilities of servers 
 //that host applications accessed by means of 
 //a request-response programming model.
