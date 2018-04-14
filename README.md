@@ -6,7 +6,9 @@ To Do will take care of it.
 
 
 # ScreenShot
-![img](https://user-images.githubusercontent.com/19759815/38722127-847894b2-3f1a-11e8-8d25-a6d17e5a04e4.png)
+![img](https://user-images.githubusercontent.com/19759815/38765893-72720776-3fe7-11e8-9c48-75120afa65e3.png)
+
+![img](https://user-images.githubusercontent.com/19759815/38765897-7f195aba-3fe7-11e8-99f9-ba2ae9228404.png)
 
 ![img](https://user-images.githubusercontent.com/19759815/38722142-8e4474fc-3f1a-11e8-9a7f-d9377894f8ce.png)
 
