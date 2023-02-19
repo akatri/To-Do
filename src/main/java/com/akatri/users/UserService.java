@@ -7,7 +7,7 @@ import java.util.Map;
 
 
 public class UserService {
-	private static Map<String,User> users = new HashMap<>();
+	private  final Map<String,User> users = new HashMap<>();
 
 	public void createUser(String unique,String name, String password,Long phone) {
 
@@ -16,8 +16,8 @@ public class UserService {
 	}
 	
 	public User getUser(String uniqueId) {
-		User temp=users.get(uniqueId);
-		return temp;
+		return users.get(uniqueId);
+
 		
 	}
 	public boolean isUserAvailable(String uId) {
